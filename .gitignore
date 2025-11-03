@@ -1,0 +1,35 @@
+# Rust
+/target
+Cargo.lock
+
+# Tauri
+/src-tauri/target
+/src-tauri/WixTools
+
+# Frontend
+/ui/node_modules
+/ui/dist
+/ui/.vite
+/ui/package-lock.json
+/ui/yarn.lock
+/ui/pnpm-lock.yaml
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Claude Code
+.claude/
+
+# Temp files
+nul
